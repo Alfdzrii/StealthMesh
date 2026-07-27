@@ -805,4 +805,5 @@ Untuk membuktikan arsitektur P2P tingkat *enterprise*:
 
 1. Minta Teman 2 (Laptop 3) membuka *browser*.
 2. Minta mereka mengakses IP WireGuard Laptop 2: `http://10.0.0.2/Data_Penting_Perusahaan.pdf`.
-3. Narasi penutup: jelaskan bahwa Laptop 3 juga bisa mengakses data tersebut secara langsung. Dalam arsitektur P2P mesh, tidak ada server pusat tunggal (*no single point of failure*) — setiap *node* dapat saling bertukar data secara langsung, tertutup dari dunia luar, dan terlindungi secara kriptografi kuantum
+3. Narasi penutup: jelaskan bahwa Laptop 3 juga bisa mengakses data tersebut secara langsung. Dalam arsitektur P2P mesh, tidak ada server pusat tunggal (*no single point of failure*) — setiap *node* dapat saling bertukar data secara langsung, tertutup dari dunia luar, dan terlindungi secara kriptografi kuantum.
+
