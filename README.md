@@ -12,6 +12,7 @@ The setup involves **three Ubuntu virtual machines (Laptop 1, Laptop 2, Laptop 3
 | Laptop 2 | Secret file server (XAMPP) |
 | Laptop 3 | Secondary mesh peer (proves point-to-point / no single central server) |
 
+
 ---
 
 ## Step 1 — Install Base Packages
